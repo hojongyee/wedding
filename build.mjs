@@ -39,6 +39,7 @@ const html = `<!doctype html>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="theme-color" content="#f7f1e7" />
+<meta name="robots" content="noindex, nofollow, noarchive, noimageindex" />
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}" />
 <meta property="og:type" content="website" />
